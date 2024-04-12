@@ -2,6 +2,9 @@
 
 The Budget App allows you to manage your finances, providing you a streamlined interface to categorize and track your expenses.
 
+## To run: 
+npm start
+
 ## Features:
 
 - **Dynamic Budget Cards**: For each budget category, a dynamic card is displayed showing the amount spent.
